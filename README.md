@@ -84,7 +84,7 @@
 
 ### 🎖 &nbsp;My Badges 
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![An image of @wilmersh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wilmersh)](https://holopin.io/@wilmersh)
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
