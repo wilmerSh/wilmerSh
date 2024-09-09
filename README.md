@@ -1,17 +1,19 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Wilmer%20Shagñay%20(wilmerSh)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Wilmer Shagñay</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;Sobre Mí
+### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;Soy recién egresado de la **Universidad de las Fuerzas Armadas ESPE**, en la carrera de **Ingeniería en Tecnologías de la Información**.\
 💡 &nbsp;Me gusta autoeducarme constantemente y me apasiona tanto el desarrollo de aplicaciones como la gestión de las mismas.\
 🌱 &nbsp;Actualmente, estoy profundizando mis conocimientos en **[Áreas de Interés: Desarrollo Web, Machine Learning, Arquitectura de Software, etc.]**.\
 ✍️ &nbsp;En mi tiempo libre, disfruto explorando nuevas tecnologías y creando proyectos personales.\
 💬 &nbsp;No dudes en contactarme para **intercambiar ideas, colaborar en proyectos** o simplemente para tener una conversación interesante sobre tecnología.\
-✉️ &nbsp;Puedes enviarme un correo a **[wilmerelmaximo@gmail.com]**. ¡Estoy disponible para responder cualquier consulta!\
+✉️ &nbsp;Puedes enviarme un correo a **wilmerelmaximo@gmail.com**. ¡Estoy disponible para responder cualquier consulta!\
 📄 &nbsp;Puedes consultar mi **[Currículum](link_a_tu_curriculum)** para más detalles sobre mi formación y experiencia. Estoy abierto a recibir comentarios y sugerencias.
 
 
