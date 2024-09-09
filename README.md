@@ -4,16 +4,16 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;Soy recién egresado de la **Universidad de las Fuerzas Armadas ESPE**, en la carrera de **Ingeniería en Tecnologías de la Información**.\
+💡 &nbsp;Me gusta autoeducarme constantemente y me apasiona tanto el desarrollo de aplicaciones como la gestión de las mismas.\
+🌱 &nbsp;Actualmente, estoy profundizando mis conocimientos en **[Áreas de Interés: Desarrollo Web, Machine Learning, Arquitectura de Software, etc.]**.\
+✍️ &nbsp;En mi tiempo libre, disfruto explorando nuevas tecnologías y creando proyectos personales.\
+💬 &nbsp;No dudes en contactarme para **intercambiar ideas, colaborar en proyectos** o simplemente para tener una conversación interesante sobre tecnología.\
+✉️ &nbsp;Puedes enviarme un correo a **[wilmerelmaximo@gmail.com]**. ¡Estoy disponible para responder cualquier consulta!\
+📄 &nbsp;Puedes consultar mi **[Currículum](link_a_tu_curriculum)** para más detalles sobre mi formación y experiencia. Estoy abierto a recibir comentarios y sugerencias.
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
